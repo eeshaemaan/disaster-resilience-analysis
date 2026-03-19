@@ -1,0 +1,27 @@
+Authorship Declaration for Group Report: Resilience Under Pressure
+
+Group Members and ID:
+Eesha Emaan (23i-2501)
+Ayesha Amer (23i-2503)
+
+ SECTION ASSIGNMENTS 
+
+CORE WORK CONTRIBUTION
+
+1. Climate and EM-DAT Data (Finding, Cleaning, Preprocessing, and Analysis):
+Responsibility: Eesha Emaan (23i-2501)
+
+2. World Bank Data and UNDP Human Development Data (Finding, Cleaning, Preprocessing, and Analysis):
+Responsibility: Ayesha Amer (23i-2503)
+
+REPORT CONTENT & DOCUMENT SECTIONS
+
+Done by Both for their respective datasets and work they did
+
+VISUALIZATION AND INTEGRATION
+
+Tableau Dashboard Creation:
+Responsibility: Shared (Eesha Emaan & Ayesha Amer)
+
+Final Document Integration, Formatting, and Reference Management:
+Responsibility: Shared (Eesha Emaan & Ayesha Amer)
